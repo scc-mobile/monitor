@@ -1,5 +1,5 @@
 # Change these first
-owner: scc-mobile# Your GitHub organization or username, where this repository lives
+owner: scc-mobile # Your GitHub organization or username, where this repository lives
 repo: monitor # The name of this repository
 
 sites:
