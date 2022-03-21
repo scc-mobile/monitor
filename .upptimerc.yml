@@ -26,6 +26,7 @@ sites:
     icon: https://scc-mobile.thepatik.eu.org/SDL_cvet.png
   - name: Prehrana stran
     url: https://prehrana.sc-celje.si
+    icon: https://prehrana.sc-celje.si/assets/images/logo.png
   - name: EviWeb
     url: https://eportal.sc-celje.si/EWePortal-cgi/EWePortal.exe/getdata?CID=000:-:0000000000&ACT=getPUBCID&PMD=3.079
     icon: https://eportal.sc-celje.si/EWePortal/img/eviwebSIS.ico
@@ -34,7 +35,7 @@ status-website:
   baseUrl: /monitor
   logoUrl: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
   name: ŠCC Mobile
-  introTitle: "ŠCC Mobile - Neuradna mobilna aplikacija Šolskega centera Celje"
+  introTitle: "Monitoring ŠCC Mobile"
   navbar:
     - title: Status
       href: /
