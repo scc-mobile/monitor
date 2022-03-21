@@ -35,7 +35,7 @@ status-website:
   baseUrl: /monitor
   logoUrl: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
   name: ŠCC Mobile
-  theme: ocean
+  theme: night
   introTitle: "Monitoring ŠCC Mobile"
   navbar:
     - title: Status
