@@ -5,8 +5,10 @@ repo: monitor # The name of this repository
 sites:
   - name: ŠCC Mobile - Frontend
     url: https://scc-mobile.thepatik.eu.org
+    icon: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
   - name: ŠCC Mobile - Backend
     url: https://scc-mobile-api.thepatik.eu.org
+    icon: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
   - name: KER stran
     url: https://ker.sc-celje.si
     icon: https://scc-mobile.thepatik.eu.org/KER_cvet.png
@@ -26,6 +28,7 @@ sites:
     url: https://prehrana.sc-celje.si
   - name: EviWeb
     url: https://eportal.sc-celje.si/EWePortal-cgi/EWePortal.exe/getdata?CID=000:-:0000000000&ACT=getPUBCID&PMD=3.079
+    icon: https://eportal.sc-celje.si/EWePortal/img/eviwebSIS.ico
 
 status-website:
   baseUrl: /monitor
@@ -44,4 +47,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/4 * * * *"
+  uptime: "*/1 * * * *"
