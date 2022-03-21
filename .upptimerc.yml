@@ -30,13 +30,12 @@ sites:
 status-website:
   baseUrl: /monitor
   logoUrl: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
-  name: Upptime
+  name: ŠCC Mobile
   introTitle: "ŠCC Mobile - Neuradna mobilna aplikacija Šolskega centera Celje"
-  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: ŠCC Mobile
+    - title: "ŠCC Mobile"
       href: https://scc-mobile.thepatik.eu.org
    metaTags:
     - name: "robots"
@@ -49,4 +48,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/4 * * * *"
