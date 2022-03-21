@@ -3,29 +3,50 @@ owner: scc-mobile # Your GitHub organization or username, where this repository 
 repo: monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ŠCC Mobile - Frontend
+    url: https://scc-mobile.thepatik.eu.org
+  - name: ŠCC Mobile - Backend
+    url: https://scc-mobile-api.thepatik.eu.org
+  - name: KER stran
+    url: https://ker.sc-celje.si
+    icon: https://scc-mobile.thepatik.eu.org/KER_cvet.png
+  - name: GL stran
+    url: https://gl.sc-celje.si
+    icon: https://scc-mobile.thepatik.eu.org/GL_cvet.png
+  - name: GVO stran
+    url: https://gvo.sc-celje.si
+    icon: https://scc-mobile.thepatik.eu.org/GVO_cvet.png  
+  - name: SMM stran
+    url: https://smm.sc-celje.si
+    icon: https://scc-mobile.thepatik.eu.org/SMM_cvet.png  
+  - name: SDL stran
+    url: https://sdl.sc-celje.si
+    icon: https://scc-mobile.thepatik.eu.org/SDL_cvet.png
+  - name: Prehrana stran
+    url: https://prehrana.sc-celje.si
+  - name: EviWeb
+    url: https://eportal.sc-celje.si/EWePortal-cgi/EWePortal.exe/getdata?CID=000:-:0000000000&ACT=getPUBCID&PMD=3.079
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-
   baseUrl: /monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://scc-mobile.thepatik.eu.org/cvet_barvni.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "ŠCC Mobile - Neuradna mobilna aplikacija Šolskega centera Celje"
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: ŠCC Mobile
+      href: https://scc-mobile.thepatik.eu.org
+   metaTags:
+    - name: "robots"
+      content: "noindex" 
+      
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
