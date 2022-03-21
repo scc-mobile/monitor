@@ -37,10 +37,6 @@ status-website:
       href: /
     - title: "ŠCC Mobile"
       href: https://scc-mobile.thepatik.eu.org
-   metaTags:
-    - name: "robots"
-      content: "noindex" 
-      
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
