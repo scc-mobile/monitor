@@ -22,18 +22,20 @@
     "url": "https://scc-mobile-api.thepatik.eu.org",
     "icon": "https://scc-mobile.thepatik.eu.org/cvet_barvni.png",
     "slug": "scc-mobile-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1274,
     "timeDay": 1237,
     "timeWeek": 1274,
     "timeMonth": 1274,
     "timeYear": 1274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   },
   {
     "name": "KER stran",
