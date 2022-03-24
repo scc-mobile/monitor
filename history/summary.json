@@ -22,19 +22,19 @@
     "url": "https://scc-mobile-api.thepatik.eu.org",
     "icon": "https://scc-mobile.thepatik.eu.org/cvet_barvni.png",
     "slug": "scc-mobile-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1274,
-    "timeDay": 1237,
-    "timeWeek": 1274,
-    "timeMonth": 1274,
-    "timeYear": 1274,
+    "status": "up",
+    "uptime": "89.84%",
+    "uptimeDay": "71.11%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "89.84%",
+    "uptimeYear": "89.84%",
+    "time": 1259,
+    "timeDay": 1195,
+    "timeWeek": 1259,
+    "timeMonth": 1259,
+    "timeYear": 1259,
     "dailyMinutesDown": {
-      "2022-03-24": 0
+      "2022-03-24": 416
     }
   },
   {
