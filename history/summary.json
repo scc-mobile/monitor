@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 802,
+    "time": 736,
+    "timeDay": 649,
     "timeWeek": 795,
-    "timeMonth": 740,
-    "timeYear": 738,
+    "timeMonth": 739,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://scc-mobile.thepatik.eu.org/cvet_barvni.png",
     "slug": "scc-mobile-backend",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
-    "time": 1264,
-    "timeDay": 1234,
-    "timeWeek": 1299,
-    "timeMonth": 1272,
-    "timeYear": 1264,
+    "uptimeYear": "99.30%",
+    "time": 1260,
+    "timeDay": 1048,
+    "timeWeek": 1276,
+    "timeMonth": 1267,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2022-03-24": 416
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2921,
-    "timeDay": 3007,
-    "timeWeek": 2965,
+    "time": 2914,
+    "timeDay": 2584,
+    "timeWeek": 2952,
     "timeMonth": 2942,
-    "timeYear": 2921,
+    "timeYear": 2914,
     "dailyMinutesDown": {
       "2022-04-15": 18
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 3194,
-    "timeDay": 2882,
-    "timeWeek": 3489,
-    "timeMonth": 3256,
-    "timeYear": 3194,
+    "time": 3202,
+    "timeDay": 3590,
+    "timeWeek": 3474,
+    "timeMonth": 3234,
+    "timeYear": 3202,
     "dailyMinutesDown": {
       "2022-04-15": 17
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 3188,
-    "timeDay": 4166,
-    "timeWeek": 3135,
-    "timeMonth": 3209,
-    "timeYear": 3188,
+    "time": 3179,
+    "timeDay": 2729,
+    "timeWeek": 3125,
+    "timeMonth": 3205,
+    "timeYear": 3179,
     "dailyMinutesDown": {
       "2022-04-15": 17
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2958,
-    "timeDay": 2925,
-    "timeWeek": 2952,
-    "timeMonth": 2979,
-    "timeYear": 2958,
+    "time": 2949,
+    "timeDay": 2524,
+    "timeWeek": 2939,
+    "timeMonth": 2975,
+    "timeYear": 2949,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2798,
-    "timeDay": 2711,
-    "timeWeek": 2731,
-    "timeMonth": 2799,
-    "timeYear": 2798,
+    "time": 2794,
+    "timeDay": 2591,
+    "timeWeek": 2743,
+    "timeMonth": 2793,
+    "timeYear": 2794,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1345,
-    "timeDay": 1618,
-    "timeWeek": 1295,
-    "timeMonth": 1294,
-    "timeYear": 1345,
+    "time": 1340,
+    "timeDay": 1107,
+    "timeWeek": 1309,
+    "timeMonth": 1291,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -163,16 +163,16 @@
     "icon": "https://eportal.sc-celje.si/EWePortal/img/eviwebSIS.ico",
     "slug": "evi-web",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.71%",
-    "uptimeYear": "96.77%",
-    "time": 3157,
-    "timeDay": 2449,
-    "timeWeek": 2699,
-    "timeMonth": 3091,
-    "timeYear": 3157,
+    "uptimeYear": "96.84%",
+    "time": 3146,
+    "timeDay": 2643,
+    "timeWeek": 2676,
+    "timeMonth": 3155,
+    "timeYear": 3146,
     "dailyMinutesDown": {
       "2022-04-15": 15,
       "2022-04-14": 1165,
