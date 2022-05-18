@@ -28,7 +28,7 @@ sites:
     url: https://prehrana.sc-celje.si
     icon: https://prehrana.sc-celje.si/assets/images/logo.png
   - name: EviWeb
-    url: https://eportal.sc-celje.si/EWePortal-cgi/EWePortal.exe/getdata?CID=000:-:0000000000&ACT=getPUBCID&PMD=3.080
+    url: https://eportal.sc-celje.si/EWePortal-cgi/EWePortal.exe/getdata?CID=000:-:0000000000&ACT=getPUBCID&PMD=3.081
     icon: https://eportal.sc-celje.si/EWePortal/img/eviwebSIS.ico
 
 status-website:
