@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 983,
+    "time": 764,
+    "timeDay": 982,
     "timeWeek": 866,
-    "timeMonth": 842,
-    "timeYear": 761,
+    "timeMonth": 849,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1298,
-    "timeDay": 1349,
-    "timeWeek": 1397,
-    "timeMonth": 1357,
-    "timeYear": 1298,
+    "time": 1301,
+    "timeDay": 1576,
+    "timeWeek": 1420,
+    "timeMonth": 1366,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2022-03-24": 416
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2923,
-    "timeDay": 3225,
-    "timeWeek": 3107,
-    "timeMonth": 2990,
-    "timeYear": 2923,
+    "time": 2929,
+    "timeDay": 3258,
+    "timeWeek": 3112,
+    "timeMonth": 3011,
+    "timeYear": 2929,
     "dailyMinutesDown": {
       "2022-05-02": 22,
       "2022-04-15": 18
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 3225,
-    "timeDay": 3493,
-    "timeWeek": 3537,
-    "timeMonth": 3375,
+    "timeDay": 3185,
+    "timeWeek": 3360,
+    "timeMonth": 3367,
     "timeYear": 3225,
     "dailyMinutesDown": {
       "2022-05-22": 20,
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3284,
-    "timeDay": 3222,
-    "timeWeek": 3728,
-    "timeMonth": 3610,
-    "timeYear": 3284,
+    "time": 3295,
+    "timeDay": 3586,
+    "timeWeek": 3675,
+    "timeMonth": 3632,
+    "timeYear": 3295,
     "dailyMinutesDown": {
       "2022-04-15": 17
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3040,
-    "timeDay": 3336,
-    "timeWeek": 3250,
+    "time": 3041,
+    "timeDay": 3092,
+    "timeWeek": 3166,
     "timeMonth": 3130,
-    "timeYear": 3040,
+    "timeYear": 3041,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2816,
-    "timeDay": 3077,
-    "timeWeek": 2989,
-    "timeMonth": 2943,
-    "timeYear": 2816,
+    "time": 2817,
+    "timeDay": 2807,
+    "timeWeek": 2936,
+    "timeMonth": 2939,
+    "timeYear": 2817,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1303,
-    "timeWeek": 1247,
-    "timeMonth": 1327,
-    "timeYear": 1339,
+    "time": 1337,
+    "timeDay": 1353,
+    "timeWeek": 1224,
+    "timeMonth": 1320,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2022-04-15": 16
     }
@@ -165,16 +165,16 @@
     "icon": "https://eportal.sc-celje.si/EWePortal/img/eviwebSIS.ico",
     "slug": "evi-web",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.05%",
-    "time": 2603,
-    "timeDay": 2297,
-    "timeWeek": 2853,
-    "timeMonth": 2686,
-    "timeYear": 2603,
+    "uptimeYear": "98.08%",
+    "time": 2640,
+    "timeDay": 4169,
+    "timeWeek": 3107,
+    "timeMonth": 2830,
+    "timeYear": 2640,
     "dailyMinutesDown": {
       "2022-05-06": 387,
       "2022-05-05": 834,
