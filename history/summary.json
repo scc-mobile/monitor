@@ -5,18 +5,19 @@
     "icon": "https://scc-mobile.thepatik.eu.org/cvet_barvni.png",
     "slug": "scc-mobile-frontend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.92%",
     "time": 765,
     "timeDay": 0,
     "timeWeek": 912,
     "timeMonth": 845,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-07-14": 1
+      "2022-07-15": 80,
+      "2022-07-14": 51
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://scc-mobile.thepatik.eu.org/cvet_barvni.png",
     "slug": "scc-mobile-backend",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.67%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.67%",
     "time": 1301,
     "timeDay": 0,
     "timeWeek": 1398,
     "timeMonth": 1362,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2022-07-14": 1,
+      "2022-07-15": 80,
+      "2022-07-14": 51,
       "2022-03-24": 416
     }
   },
